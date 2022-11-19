@@ -17,7 +17,7 @@
     "body-parser": "^1.18.3",
     "cross-env": "^5.2.0",
     "express": "^4.16.3",
-    "nuxt": "^2.10.2"
+    "nuxt": "^2.15.8"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.9.0",
